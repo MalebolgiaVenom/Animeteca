@@ -1,0 +1,42 @@
+body {
+    margin:0;
+    padding:0;
+  }
+
+
+ 
+.list{
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+.img {
+    text-align: center;
+    border: silver 12px solid;
+}
+
+.Background1{
+background-image: url("https://images5.alphacoders.com/658/658649.jpg");
+background-position: center center;
+/* opacity:0.4;
+filter:alpha(opacity=40); For IE8 and earlier */
+}
+.listback{
+  background-color: gold;
+}
+
+.figure{
+  Border: 5px solid;
+}
+.text-center{
+  font: oblique bold 100% cursive;
+  
+}
+
+
+.carousel-inner{
+  text-align: -webkit-center;
+}
