@@ -28,9 +28,9 @@ filter:alpha(opacity=40); For IE8 and earlier */
   background-color: gold;
 }
 
-.figure{
+/* .figure{
   Border: 5px solid;
-}
+} */
 .text-center{
   font: oblique bold 100% cursive;
   
