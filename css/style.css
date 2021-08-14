@@ -24,8 +24,8 @@ background-position: center center;
 filter:alpha(opacity=40); For IE8 and earlier */
 }
 .listback{
-  background-color: gold;
-}
+ border: gold 20px double;
+ }
 
 /* .figure{
   Border: 5px solid;
@@ -52,4 +52,10 @@ filter:alpha(opacity=40); For IE8 and earlier */
         line-height:80px;
         text-align:center;
         z-index:999;
+}
+
+.nav-item{
+  font-size: 2.0em;
+  
+
 }
