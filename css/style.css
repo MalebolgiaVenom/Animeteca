@@ -40,6 +40,30 @@ filter:alpha(opacity=40); For IE8 and earlier */
   text-align: -webkit-center;
 }
 
+
+
+.nav-item{
+  font-size: 2.0em;
+}
+
+
+.figure{
+ border: gold 15px double;
+
+}
+
+figure.figure{
+font-size: 1.1em;
+}
+
+.color{
+color:rgb(46, 12, 238) !important ;
+}
+
+
+
+
+
 .btn-whatsapp {
         display:block;
         width:70px;
@@ -52,10 +76,4 @@ filter:alpha(opacity=40); For IE8 and earlier */
         line-height:80px;
         text-align:center;
         z-index:999;
-}
-
-.nav-item{
-  font-size: 2.0em;
-  
-
 }
